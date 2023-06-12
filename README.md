@@ -1,2 +1,2 @@
-# Airline-Industry-Dataset
-multilinear regression, clustering analysis, and ANN model to forecast revenue and customer satisfaction with SPSS
+# Analysis of Airline Industry dataset
+Implemented multilinear regression, clustering analysis, and ANN model to forecast revenue and customer satisfaction with SPSS
