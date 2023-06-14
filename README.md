@@ -1,2 +1,2 @@
 # Analysis of Airline Industry dataset
-Implemented multilinear regression, clustering analysis, and ANN model to forecast revenue and customer satisfaction with SPSS
+Implemented multilinear regression, Two-Step Cluster, and artificial neural network (multilayer perceptron) model to investigate key factors influencing revenue and customer satisfaction with SPSS
